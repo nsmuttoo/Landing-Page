@@ -1,0 +1,40 @@
+*{
+    font-family: 'Roboto' , sans-serif;
+}
+
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+
+
+
+.header{
+    background-color: #1F2937;
+}
+
+.logo{
+   
+}
+
+.topSegment{
+    background-color: #1F2937;
+}
+
+.middleSegment{
+
+}
+
+.quoteSegment{
+    background-color: #E5E7EB;
+}
+
+.bottomSegment{
+
+}
+
+.footer{
+    background-color: #1F2937;
+}
