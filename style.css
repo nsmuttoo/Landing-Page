@@ -16,25 +16,104 @@
 }
 
 .logo{
-   
+   color: #F9FAF8;
+   font-size: 24px;
+   font-weight: 900;
+}
+
+ul{
+    color: #E5E7Eb;
+    font-size: 18px;
+    list-style: none;
 }
 
 .topSegment{
     background-color: #1F2937;
 }
 
+.BigHeader{
+    color: #F9FAF8;
+   font-size: 48px;
+   font-weight: 900;
+}
+
+.normalText{
+    color: #E5E7Eb;
+    font-size: 18px;
+}
+
+.topButton{
+    background-color: #3882F6;
+    font-size: 18px;
+    color: #E5E7Eb;
+}
+
+
 .middleSegment{
 
+}
+
+.midHeading{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.text{
+    font-size: 18px;
+    color: #1F2937;
 }
 
 .quoteSegment{
     background-color: #E5E7EB;
 }
 
+.quoteText{
+    font-size: 36px;
+    font-style:italic;
+    color: #1F2937;
+    font-weight: 300;
+}
+
+.author{
+    font-size: 18px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
 .bottomSegment{
 
 }
 
+.bottomBigText{
+    background-color: #3882F6;
+    font-size: 24px;
+    font-weight: 900;
+    color: #E5E7Eb
+}
+
+.bottomSmallText{
+
+    background-color: #3882F6;
+    font-size: 18px;
+    
+    color: #E5E7Eb
+}
+
+.bottomButton{
+    background-color: #3882F6;
+    font-size: 18px;
+    
+    color: #E5E7Eb
+}
+
 .footer{
     background-color: #1F2937;
+}
+
+.footerText{
+    font-size: 18px;
+    
+    color: #E5E7Eb;
+    font-weight: 300;
 }
