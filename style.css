@@ -145,7 +145,12 @@ margin-top: 48px;
 }
 
 .bottomSegment{
-
+    display: flex;
+    margin: 120px;
+    border-radius: 5px;
+    background-color: #3882F6;
+    justify-content: space-between;
+    padding: 48px;
 }
 
 .bottomBigText{
@@ -164,20 +169,41 @@ margin-top: 48px;
 }
 
 .bottomButton{
+    
+    
+   
+    display: flex;
+    align-items: center;
+   justify-content: center;
+    
+}
+
+button.bottomButton{
     background-color: #3882F6;
     font-size: 18px;
-    
     color: #E5E7Eb;
     border-radius: 5px;
     border: #E5E7EB;
+    border-width: 2px;
+    border-style: solid;
+    width: 150px;
+    height: 40px;
+    padding: 0px;
+    
+   
+    font-weight: 900;
+    
 }
 
 .footer{
     background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    padding:32px;
 }
 
 .footerText{
-    font-size: 18px;
+    font-size: 12px;
     
     color: #E5E7Eb;
     font-weight: 300;
