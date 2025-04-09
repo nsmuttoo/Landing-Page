@@ -2,10 +2,11 @@
     font-family: 'Roboto' , sans-serif;
 }
 
-.body{
+html, body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    margin: 0;
     
 }
 
@@ -95,7 +96,7 @@ align-items: center;
 .midBlock{
 display: flex;
 justify-content: space-between;
-gap: 12px;
+gap: 48px;
 margin: 96px;
 margin-top: 48px;
 }
@@ -107,7 +108,9 @@ margin-top: 48px;
     text-align: center;
     color: #1f2937;
     font-size: 18px;
-    
+    font-weight: 300;
+    width: 150px;
+    gap: 12px;
 }
 
 .midImage{
