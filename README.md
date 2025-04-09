@@ -1,3 +1,4 @@
 # Landing-Page
+ This is HTML and CSS practice to design a clean website landing page from the Odin Project course
 
-This project is a work in progress! This is HTML and CSS practice to design a clean website landing page
+ https://www.theodinproject.com/lessons/foundations-landing-page
