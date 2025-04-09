@@ -47,13 +47,13 @@ ul{
     padding: 48px;
     display: flex;
     flex-direction: column;
-    gap: 12px;
+    gap: 24px;
 
 }
 
 .topImage{
     height: 250px;
-    width: 250px;
+    width: 400px;
     margin: 24px;
     padding: 48px;
 }
@@ -75,17 +75,45 @@ ul{
     color: #E5E7Eb;
     border-radius: 5px;
     border: #E5E7EB;
+    width: 150px;
+    height: 40px;
 }
 
 
 .middleSegment{
-
+display: flex;
+flex-direction: column;
+align-items: center;
 }
 
 .midHeading{
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
+    padding: 48px;
+}
+.midBlock{
+display: flex;
+justify-content: space-between;
+gap: 12px;
+margin: 96px;
+margin-top: 48px;
+}
+
+.midOne, .midTwo, .midThree, .midFour{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: #1f2937;
+    font-size: 18px;
+    
+}
+
+.midImage{
+    height: 150px;
+    width: 150px;
+    margin: auto;
 }
 
 .text{
@@ -95,6 +123,11 @@ ul{
 
 .quoteSegment{
     background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    padding: 96px;
+    padding-left: 240px;
+    padding-right: 240px;
 }
 
 .quoteText{
@@ -108,6 +141,7 @@ ul{
     font-size: 18px;
     color: #1F2937;
     font-weight: 900;
+    text-align: right;
 }
 
 .bottomSegment{
